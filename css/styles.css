@@ -1,0 +1,73 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Open Sans', sans-serif;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 93vh;
+}
+
+/* Responsive css code */
+@media (min-width: 576px) { 
+    ... }
+
+@media (min-width: 768px) { 
+    ... }
+
+@media (min-width: 992px) {
+     ... }
+
+@media (min-width: 1200px) { 
+    ... }
+
+@media (min-width: 1400px) { 
+    ... }
+
+
+.about_img{
+    min-width: 50%;
+    max-height: 200px;
+}
+
+
+.services .row>* {
+padding-right: 0;
+padding-left: 0;
+padding: 5px;
+
+}
+
+.services img{
+    height: 100%;
+    width: 100%;
+   
+   }
+/*
+.card-img-top{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+*/
+
+.image{
+    height: 75%;
+    width: 75%;
+}
+
+.offer_style{
+    background: #a6dcef;
+}
+
+footer p{
+
+     margin-bottom: 0;
+}
+
+body{
+    position: relative;
+}
