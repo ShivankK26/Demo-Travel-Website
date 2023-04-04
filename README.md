@@ -46,6 +46,6 @@ After pasting the CDN Links, we will use various features in Bootstrap such as C
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/Demo-Travel-Website/
